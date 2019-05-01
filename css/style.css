@@ -810,3 +810,7 @@ fieldset {
     font-size: 80px;
     padding: 10px;
 }
+
+#name {
+    font-size: 30px;
+}
